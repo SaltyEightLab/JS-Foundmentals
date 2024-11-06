@@ -16,3 +16,10 @@ console.log(age);
 //constants
 const occupation = "Engineer";
 console.log(occupation);
+
+//datatypes
+var middleName = "Dabid";
+var ageOfBrother = 25;
+var isHeMarried = false;
+var yearsInMarriage = null;
+var numberOfCars = undefined;
